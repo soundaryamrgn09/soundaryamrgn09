@@ -2,9 +2,9 @@
 
 ## Aspiring Java Full Stack Developer
 
-I'm a developer focused on building web applications using **Java, Spring Boot, HTML, CSS, JavaScript, and MySQL**.  
-Currently based in **Chennai, India 🇮🇳** and actively looking for **internship & fresher opportunities** in software development.  
-I enjoy working on ideas ranging from **e-commerce platforms** to **travel apps and ML-based systems**.
+I'm a developer passionate about building web applications using **Java, Spring Boot, HTML, CSS, JavaScript, and MySQL**.  
+Currently pursuing my degree at **Vels University** and actively looking for **internship & fresher opportunities** in software development.  
+I love coding, solving real-world problems, and working on live projects — with a goal to become a skilled **Java Full Stack Developer** 🚀.
 
 ---
 
@@ -28,9 +28,6 @@ I enjoy working on ideas ranging from **e-commerce platforms** to **travel apps 
 
 ## 📁 Projects
 
-- 🛒 **E-Commerce Platform** — Full-featured shopping web app with product listings & cart management
-- ✈️ **Travel & Tourism Platform** — Destination discovery & travel package booking app
-- 🗂️ **Java CRUD Applications** — Backend apps demonstrating core database operations
 - 🔐 **Network Anomaly Detection** — ML-based system to detect unusual network traffic patterns
 
 ---
